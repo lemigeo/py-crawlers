@@ -1,0 +1,2 @@
+aiohttp==3.5.4
+parsel==1.5.1
